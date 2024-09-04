@@ -64,11 +64,11 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER : FARHAN ISLAM 
+DEVELOPER : SAGOR ISLAM 
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/Imon.132233
+https://www.facebook.com/jahidul.islam.sagor.24
 
 🔵WHATSAPP NUMBER: INBOX`, attachment: fs.createReadStream(gifPath)}, threadID));
 })
