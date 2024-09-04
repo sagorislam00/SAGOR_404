@@ -40,19 +40,19 @@ ________________________________________
 
 ❇️𝙱𝙾𝚃 𝙽𝙰𝙼𝙴 : ${global.config.BOTNAME}
 
-❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 𝙵𝙰𝚁𝙷𝙰𝙽-𝙸𝚂𝙻𝙰𝙼 』
+❇️𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽 :『 Sagor-𝙸𝚂𝙻𝙰𝙼 』
 
-❇️𝙰𝙳𝙳𝚁𝙴𝚂𝚂 : 𝙱𝙰𝚁𝙸𝚂𝙷𝙰𝙻
+❇️𝙰𝙳𝙳𝚁𝙴𝚂𝚂 : panchagarh 
 
 _____________𝙲𝙾𝙽𝚃𝙰𝙲𝚃_____________
 
-❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/profile.php?id=100089974857944
+❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/jahidul.islam.sagor.24
 
-❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝚔 𝙿𝙰𝙶𝙴: https://www.facebook.com/FarhanIslamImon.official?mibextid=ZbWKwL
+❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝚔 𝙿𝙰𝙶𝙴: https://www.facebook.com/jahidul.islam.sagor.24
 
 ❇️𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇 : ${global.config.PREFIX}
 
-❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  𝙵𝙰𝚁𝙷𝙰𝙽_𝙸𝚂𝙻𝙰𝙼
+❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  SAGOR_𝙸𝚂𝙻𝙰𝙼
 
 𝙾𝚃𝙷𝙴𝚁 𝙸𝙽𝙵𝙾𝙼𝙰𝚃𝙸𝙾𝙽____________________
 
