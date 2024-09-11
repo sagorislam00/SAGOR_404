@@ -16,7 +16,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	let react = event.body.toLowerCase();
 	if(react.includes("i love you") ||
      react.includes("love") || 
-react.includes("baby") || react.includes("xan") || react.includes("xanu") || react.includes("sona") ||
+react.includes("jan") || react.includes("xan") || react.includes("xanu") || react.includes("sona") ||
 react.includes("xn") ||
 react.includes("xona") || react.includes("xuna") || react.includes("ভালবাসি") ||
 react.includes("ব্রেকাপ") ||
