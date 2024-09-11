@@ -15,5 +15,5 @@ module.exports.config = {
 
 module.exports.run = async ({ api, event, args }) => {
 	const { threadID, messageID } = event;
-	return api.sendMessage(`${global.config.BOTNAME} Bot are now Restarting farhan islam.5.s...`, threadID, () => process.exit(1));
+	return api.sendMessage(`${global.config.BOTNAME} Bot are now Restarting SAGOR islam.5.s...`, threadID, () => process.exit(1));
 }
