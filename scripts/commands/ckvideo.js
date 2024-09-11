@@ -23,9 +23,15 @@ module.exports.run = async ({ api, event, args, client, Users, Threads, __GLOBAL
   var hi = ["--যারা ফুলকে ভালোবাসে তারা নিজেরাই এক একটা ফুল 💕🌸 --Sagor-𝐈𝐬𝐥𝐚𝐦--"];
   var know = hi[Math.floor(Math.random() * hi.length)];
   var link = [
-    "https://i.imgur.com/tkEidwX.mp4",
-    "https://i.imgur.com/QHSks6w.mp4",
-    "https://i.imgur.com/vzU4yCS.mp4"
+    "https://i.imgur.com/RQPW4J4.mp4",
+    "https://i.imgur.com/GICmTcH.mp4",
+    "https://i.imgur.com/N7N36mP.mp4",
+    "https://i.imgur.com/Bc6fF5c.mp4",
+    "https://i.imgur.com/2Ex7jc2.mp4",
+    "https://i.imgur.com/NIwlzYS.mp4",
+    "https://i.imgur.com/2f1Ldc4.mp4",
+    "https://i.imgur.com/8NOCa6Q.mp4",
+    "https://i.imgur.com/0Nqkbez.mp4"
   ];
 
   var callback = () => {
