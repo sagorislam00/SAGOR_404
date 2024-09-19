@@ -116,4 +116,4 @@ const name = infu[qtv2[i].id].name;
 				.on('close', () => callback());
 
 	}	  
-       }
+}
